@@ -28,6 +28,7 @@ if (section == 1){
             console.log (result)
          
         } else{
+            //el error en esta calculadora es que todos los calculos se hacen muy rapido y no por partes//
             if (section ==4 ){
                 let x
                 let a 
