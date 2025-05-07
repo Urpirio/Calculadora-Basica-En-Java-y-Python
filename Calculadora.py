@@ -16,8 +16,6 @@ while True:
     if Section == 2:
         Num1 = float(input(" Ingresar Num1 "))
         Num2 = float(input(" Ingresar Num2 "))
-        Num1 = int(Num1)
-        Num2 = int(Num2)
         Result = Num1 - Num2
         print("Resultado = ",Result)
     else:
